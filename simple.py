@@ -1,9 +1,9 @@
 print("Hello Git")
 
-def hello():
-    print("HELLO")
+def hello(name):
+    print("HELLO " + name)
 
 
 
-hello()
-
+hello("World")
+hello("jemali")
