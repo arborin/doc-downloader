@@ -1,1 +1,3 @@
-import datetimr
+import datetime
+
+print(datetime.date.today())
