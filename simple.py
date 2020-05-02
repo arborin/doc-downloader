@@ -4,4 +4,4 @@ def hello(name):
     print("HELLO " + name)
 
 
-hello("Example")
+hello("Example 01")
